@@ -27,7 +27,7 @@
 <br/><br/>
 
 <br/><br/>
-![pic5](https://raw.githubusercontent.com/getwebem/README/master/b2bMarketing/Screen%20Shot%202017-05-02%20at%2013.11.51.png)
+![pic5](https://raw.githubusercontent.com/getwebem/README/master/b2bMarketing/Screen%20Shot%202017-05-02%20at%2013.47.10.png)
 <br/><br/>
 <br/><br/>
 ![pic6](https://raw.githubusercontent.com/getwebem/README/master/b2bMarketing/Screen%20Shot%202017-05-02%20at%2013.12.02.png)
