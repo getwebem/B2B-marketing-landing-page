@@ -249,7 +249,6 @@
       this.animationNameCache = new WeakMap();
       this.wowEvent = createEvent(this.config.boxClass);
     }
-
     _createClass(WOW, [{
       key: 'init',
       value: function init() {
