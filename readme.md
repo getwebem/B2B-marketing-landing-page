@@ -1,8 +1,8 @@
 # B2B Marketing
 ### Technologies Used
 ####  :rocket: HTML5, CSS3, Bootstrap 3.3, WOW.js, Animate.css, Font-awesome, Google Maps, Google Fonts
- - $ :  `git clone https://github.com/getwebem/B2B-marketing-landing-page.git`
- - $ :  `cd B2B-marketing-landing-page`
+ - $ :  `git clone https://github.com/getwebem/Bootstrap-B2B-marketing.git`
+ - $ :  `cd Bootstrap-B2B-marketing`
  - Open:  `Brackets .`
  - Open:  `Index.html`
  - Web Browser:  `Live Preview`  
